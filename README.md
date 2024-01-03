@@ -73,21 +73,14 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
      
 </td>
-    <td>
-  
-## 📄📜 Stats
-
-     
-  </td>
- </tr>
-</table>
-
-#### Cloud Infrastructures
+<td>
+ #### Cloud Infrastructures
 
 ![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)&nbsp;
 
-
+</td>
+<td>
 #### Environments
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
@@ -95,23 +88,15 @@
 ![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
--->
+
+
+</td>
+
+ </tr>
+</table>
 
 
 
-
-</br>
-</br>
-
-## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
-
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img width="80%" align="center" src ="profile-3d-contrib/profile-customize.svg"/>
-
-
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
-
-
-</br>
 
   <table  >
  <tr>

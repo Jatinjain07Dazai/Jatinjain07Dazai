@@ -5,8 +5,6 @@
  <p>- <i>A comp-sci undergraduate and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Love to play and build Video Games...</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-
 ## ⚡🙋‍♂️ About Me
 
 </br>
@@ -100,178 +98,7 @@
 -->
 
 
-<!--
 
-<br />
-
-<details>
-
-  <summary><h2> 📌🏴  Coding Profiles </h2></summary>
-
-</br>
-</br>
-
-<a href="#" ><img style="height:25px; margin:10%; position: absolute;float: left;" src = "https://img.shields.io/static/v1?message=Code%20Chef&logo=CodeChef&labelColor=brown&color=brown&logoColor=white&label=%20&style=plastic"/></a> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Leet%20Code&logo=LeetCode&labelColor=05122A&color=05122A&logoColor=FFA116&label=%20&style=plastic"/>&nbsp;&nbsp;&nbsp;  &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&labelColor=black&color=black&logoColor=00EA64&label=%20&style=flat"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:26px" src = "https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&labelColor=red&color=red&logoColor=yellow&label=%20&style=plastic"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Geeks%20For%20Geeks&logo=GeeksforGeeks&labelColor=white&color=lightgrey&logoColor=2F8D46&label=%20&style=plastic"/>  &nbsp;
-<a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-</details>
-
--->
-
-</br>
-
-<!--
-
-<details>
-
-  <summary> <h3> Post Links </h3> </summary>
-
-  </br>
-
-  <a href = "#" > <img src = "https://img.shields.io/static/v1?message=QnA&logo=StackOverflow&labelColor=F58025&color=white&logoColor=white&label=Stack%20Overflow&style=plastic"/></a>
- 
-  
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Communinty&logo=dev.to&labelColor=0A0A0A&color=white&logoColor=white&label=dev.to&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Blog%20Post&logo=GeeksforGeeks&labelColor=2F8D46&color=white&logoColor=white&label=gfg&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-  
-</details>
-
--->
-
-
-
-<!-- 
-# Featured Repositories 🚀
-
-
-<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=IPL-Statistical-Analysis&theme=moltack&title_color=000000"/>
-
-<img width="30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Tech-Vision"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=vue"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Directory-Tree-Generator&theme=apprentice"/>
- -->
-
-<!--
-
-## Banner
-
-## Update About
-
-## Metrics
-
-## Code Snippet Gif/ Anime
-
-## Resize
-
-## Pinned Repositories
-
-## Open Source Programs
-
-## Achievements Section
-
--->
-
-<!-- 
-Navigation Options  -->
-
-<!-- 
-Featured Repositories.
- -->
-
-
- 
-<!-- 
-
-<details> 
- <summary> <h2> Here are some highlights of my open source journey </h2> </summary>
- 
- 
- 
-<details>
-
-  <summary> <h2> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>  </a> 
- 
-   👆 Click To Expand!! </h2> </summary>
-  
-  <table>
-   <h2> Section Link </h3> 
- <tr>
- <td> <img src="git-metrics/r1l.svg"/> </td>
- <td> <img src="git-metrics/r1r.svg"/> </td>
- </tr>
- </table>
-  
-</details>
-
- <details>
-
-  <summary> Open Source Work </summary>
-  
-   <table>
-     
-   <td><img src="git-metrics/r2.svg"/> </td>
-   <td><img src="git-metrics/r3.svg"/> </td>
-     
- 
- </table>
-  
-</details>
- 
- 
- <details>
-
-  <summary> Useful Repos and Important Code </summary>
-  
-   <table>
-     
-   <td><img src="git-metrics/r4l.svg"/> </td>
-   <td><img src="git-metrics/r4r.svg"/> </td>
-     
- 
- </table>
-  
-</details>
- 
-  <details>
-
-  <summary> Others's collaboration my repos </summary>
-  
-   <table>
-     
-  <tr>   
-     <img src="git-metrics/r5.svg"/> 
-    </tr>   
- 
- </table>
-  
-</details>
-
-</details>
- -->
- 
- 
-
-  
-<!-- ## Here are some highlights of my open source journey 
-
- ### - Activity Smmary and Overview
-
-## Here are some of my works
- -->
 
 </br>
 </br>
@@ -289,24 +116,6 @@ Featured Repositories.
   <table  >
  <tr>
   
-
-
-  <td width="75%" align = "left">
-
-   <h3>  &nbsp; &nbsp; 📙📘 &nbsp;Recent Articles and Blog Posts  </h3>
-
-   
-<!-- BLOG-POST-LIST:START -->
-- [Take your GitHub profile from zero to hero with these 10 hacks](https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a  software developer Part1](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b?source=rss-d1e37ddd01e4------2)
-<!-- BLOG-POST-LIST:END -->
-
-  </td>
-  
-  <td width="600px">
-   
-  </td>
   
  </tr>
  </table>
@@ -331,14 +140,6 @@ Featured Repositories.
 
 
 
-
-## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
-
-<br/>
-
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kgan31/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:gkaustav57@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 
 </br>
 </br>
